@@ -1,0 +1,38 @@
+{
+  "id": "./Code-de-la-route.html",
+  "name": "Code de la route · Kit Boussole",
+  "short_name": "Code de la route",
+  "description": "Leçons et examens blancs du code, sans IA. Les résultats restent sur cet appareil.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./Code-de-la-route.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbf3e4",
+  "theme_color": "#0B5566",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "../icones/code-route-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../icones/code-route-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "../icones/code-route-masquable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
